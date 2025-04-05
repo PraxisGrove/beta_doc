@@ -12,26 +12,26 @@ hero:
   actions:
     - theme: brand
       text: 智能合约开发与审计
-      link: /markdown-examples
+      link: /SolidityDev
     - theme: alt
       text: 前端开发
-      link: /api-examples
+      link: /
     - theme: alt
       text: Go 服务器开发
-      link: /markdown-examples
+      link: /
     - theme: alt
       text: Rust
-      link: /markdown-examples
+      link: /
     - theme: alt
       text: C++
-      link: /markdown-examples    
+      link: /
       icon: 🛠
     - theme: alt
       text: 投研
-      link: /markdown-examples   
+      link: /
     - theme: alt
       text: 工具和其他
-      link: /markdown-examples
+      link: /
 
 features:
   - icon: 🎯
